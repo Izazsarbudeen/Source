@@ -1,0 +1,11 @@
+name: source
+
+on:
+  watch:
+    types: [started]
+
+jobs:
+  stargazers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: drknzz/source@main
