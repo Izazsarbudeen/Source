@@ -8,4 +8,4 @@ jobs:
   stargazers:
     runs-on: ubuntu-latest
     steps:
-      - uses: drknzz/source@main
+      - uses: izazsarbudeen/source@main
