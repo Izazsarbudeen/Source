@@ -1,4 +1,4 @@
-name: 'stargazers'
+name: 'source'
 description: 'Embedd latest stargazers of repository in README file'
 
 runs:
